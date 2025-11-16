@@ -7,7 +7,7 @@ from textblob import TextBlob
 import pandas as pd
 
 def analyze():
-    with open("experiment_outputs.json") as f:
+    with open("experiment_outputs_openai.json") as f:
         data = json.load(f)
 
     rows = []
@@ -24,9 +24,9 @@ def analyze():
         })
 
     df = pd.DataFrame(rows)
-    df.to_csv("bias_analysis.csv", index=False)
+    df.to_csv("bias_analysis_openai.csv", index=False)
 
-    print("✔ Bias results saved to bias_analysis.csv")
+    print("✔ Bias results saved to bias_analysis_openai.csv")
 
 if __name__ == "__main__":
     analyze()

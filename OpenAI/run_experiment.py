@@ -30,7 +30,7 @@ def run_all():
     with open("experiment_outputs.json", "w") as f:
         json.dump(results, f, indent=4)
 
-    print("✔ All prompts executed and saved to experiment_outputs.json")
+    print("✔ All prompts executed and saved to experiment_outputs_openai.json")
 
 if __name__ == "__main__":
     run_all()

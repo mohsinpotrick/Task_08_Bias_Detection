@@ -13,7 +13,7 @@ from data import player_df  # team stats if needed
 # File paths
 # ---------------------------
 IN_FILE = "experiment_outputs.json"  # from run_all()
-OUT_FILE = "fabrications.csv"
+OUT_FILE = "fabrications_openai.csv"
 
 # ---------------------------
 # Load experiment results
