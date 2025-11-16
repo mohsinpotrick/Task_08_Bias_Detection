@@ -95,11 +95,11 @@ These findings validate that LLMs can amplify framing, demographic, and priming 
 
 1. Average Sentiment by Bias Type (OpenAI)
 
-OpenAI/bias_sentiment_chart.png
+![OpenAI Sentiment Chart](OpenAI/bias_sentiment_chart.png)
 
 2. Average Sentiment by Bias Type (Gemini)
 
-Gemini/bias_sentiment_barplot.png
+![Gemini Sentiment Chart](Gemini/bias_sentiment_barplot.png)
 
 ---
 
