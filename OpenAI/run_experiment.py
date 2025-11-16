@@ -7,8 +7,7 @@ from openai import OpenAI
 from data import player_df
 from experiment_design import generate_prompts
 
-client = OpenAI(api_key="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")
-
+client = OpenAI(api_key="myapikey")
 def run_all():
 
     prompts = generate_prompts(player_df)
