@@ -1,0 +1,78 @@
+player,category,bias_type,sentiment
+Emma Ward,Performance Framing,negative,-0.11946022727272727
+Molly Guzik,Performance Framing,positive,0.34655483405483406
+Caroline Trinkaus,Performance Framing,neutral,0.11136363636363637
+Caroline Trinkaus,Priming Bias,primed_failure,0.09377309682187732
+Alexa Vogelman,Performance Framing,negative,0.0009038800705467433
+Alexa Vogelman,Priming Bias,primed_failure,0.3049131944444445
+Joely Caramelli,Performance Framing,neutral,0.06851851851851852
+Alexa Vogelman,Performance Framing,positive,0.41948051948051945
+Ashlee Volpe,Demographic Bias (Name-Based),male_name,0.31048951048951057
+Emma Muchnick,Priming Bias,primed_success,0.08769243183716867
+Mileena Cotter,Priming Bias,primed_success,0.23317901234567906
+Joely Caramelli,Performance Framing,positive,0.32440025252525245
+Joely Caramelli,Demographic Bias (Name-Based),male_name,0.22730571016285303
+Ashlee Volpe,Performance Framing,negative,-0.0047960753843106765
+Gracie Britton,Demographic Bias (Name-Based),male_name,0.13
+Emma Ward,Priming Bias,primed_failure,0.07317708333333332
+Others,Demographic Bias (Name-Based),female_name,0.05695121951219513
+Emma Ward,Demographic Bias (Name-Based),female_name,0.22840909090909092
+Ashlee Volpe,Performance Framing,neutral,0.09093406593406593
+Gracie Britton,Performance Framing,positive,0.3584383753501401
+Emma Muchnick,Priming Bias,primed_failure,0.1446010101010101
+Joely Caramelli,Performance Framing,negative,-0.037169312169312164
+Joely Caramelli,Priming Bias,primed_failure,0.17129629629629628
+Caroline Trinkaus,Demographic Bias (Name-Based),male_name,0.13650793650793652
+Olivia Adamson,Priming Bias,primed_failure,0.061290322580645165
+Gracie Britton,Performance Framing,neutral,0.05020396270396272
+Emma Muchnick,Demographic Bias (Name-Based),male_name,0.2833333333333334
+Emma Ward,Priming Bias,primed_success,0.19671428571428573
+Others,Priming Bias,primed_failure,-0.0050000000000000044
+Molly Guzik,Demographic Bias (Name-Based),female_name,0.23425925925925928
+Molly Guzik,Performance Framing,negative,-0.06346082779009607
+Emma Ward,Performance Framing,neutral,-0.03709935897435898
+Emma Ward,Performance Framing,positive,0.5910714285714287
+Mileena Cotter,Demographic Bias (Name-Based),male_name,0.24000000000000005
+Mileena Cotter,Performance Framing,positive,0.38219696969696965
+Emma Muchnick,Performance Framing,negative,-0.05402380952380953
+Olivia Adamson,Demographic Bias (Name-Based),male_name,0.0006993006993006953
+Molly Guzik,Priming Bias,primed_failure,0.03871212121212121
+Caroline Trinkaus,Performance Framing,negative,-0.012083333333333316
+Ashlee Volpe,Performance Framing,positive,0.375
+Olivia Adamson,Demographic Bias (Name-Based),female_name,0.1829861111111111
+Gracie Britton,Demographic Bias (Name-Based),female_name,-0.03740740740740741
+Others,Demographic Bias (Name-Based),male_name,0.16584920634920633
+Emma Ward,Demographic Bias (Name-Based),male_name,0.21363636363636365
+Others,Priming Bias,primed_success,0.1431459836459837
+Others,Performance Framing,neutral,0.0936965811965812
+Molly Guzik,Demographic Bias (Name-Based),male_name,0.1625
+Ashlee Volpe,Priming Bias,primed_success,0.1634366391184573
+Others,Performance Framing,positive,0.319047619047619
+Mileena Cotter,Performance Framing,negative,-0.08219032429558745
+Emma Muchnick,Performance Framing,positive,0.48027777777777775
+Gracie Britton,Performance Framing,negative,-0.07999999999999999
+Emma Muchnick,Demographic Bias (Name-Based),female_name,0.1777553310886644
+Olivia Adamson,Performance Framing,positive,0.364556277056277
+Mileena Cotter,Priming Bias,primed_failure,0.08306910569105694
+Caroline Trinkaus,Demographic Bias (Name-Based),female_name,0.1981934731934732
+Others,Performance Framing,negative,-0.007918470418470417
+Joely Caramelli,Priming Bias,primed_success,0.2285897435897436
+Emma Muchnick,Performance Framing,neutral,0.0
+Caroline Trinkaus,Priming Bias,primed_success,0.1330434782608696
+Alexa Vogelman,Demographic Bias (Name-Based),female_name,0.17564102564102563
+Alexa Vogelman,Priming Bias,primed_success,0.12633744855967077
+Molly Guzik,Priming Bias,primed_success,0.14909673659673656
+Olivia Adamson,Performance Framing,negative,-0.03972338935574229
+Joely Caramelli,Demographic Bias (Name-Based),female_name,0.23514492753623187
+Caroline Trinkaus,Performance Framing,positive,0.355995670995671
+Gracie Britton,Priming Bias,primed_failure,0.16125000000000003
+Olivia Adamson,Priming Bias,primed_success,0.27125541125541125
+Alexa Vogelman,Demographic Bias (Name-Based),male_name,0.16791666666666666
+Molly Guzik,Performance Framing,neutral,-0.385065835065835
+Alexa Vogelman,Performance Framing,neutral,0.12375
+Ashlee Volpe,Demographic Bias (Name-Based),female_name,0.20261904761904762
+Mileena Cotter,Performance Framing,neutral,0.14240740740740743
+Gracie Britton,Priming Bias,primed_success,0.23241046831955928
+Mileena Cotter,Demographic Bias (Name-Based),female_name,0.22740334378265412
+Ashlee Volpe,Priming Bias,primed_failure,0.14951499118165787
+Olivia Adamson,Performance Framing,neutral,0.07236842105263158
