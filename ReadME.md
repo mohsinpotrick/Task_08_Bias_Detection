@@ -21,6 +21,7 @@ The experiment tests how **prompt framing**, **demographic context**, and **prim
 ---
 
 ## Repository Structure
+```
 │
 ├─ OpenAI/ # OpenAI visualization charts
     └─ bias_sentiment_chart.png
@@ -39,7 +40,7 @@ The experiment tests how **prompt framing**, **demographic context**, and **prim
 ├─ analysis/ # Statistical tests, visualizations
 ├─ REPORT.md # Final bias detection report
 └─ .gitignore # Excludes sensitive files
-
+```
 
 ## Files to run 
 
