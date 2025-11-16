@@ -22,7 +22,6 @@ The experiment tests how **prompt framing**, **demographic context**, and **prim
 
 ## Repository Structure
 ```
-│
 ├─ OpenAI/ # OpenAI visualization charts
     └─ bias_sentiment_chart.png
     └─ experiment_design.py # Generates prompt variations
